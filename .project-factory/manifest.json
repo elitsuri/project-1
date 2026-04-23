@@ -1,0 +1,18 @@
+{
+  "project_name": "\u05e4\u05e8\u05d5\u05e7\u05e1\u05d9-\u05de\u05d0\u05d5\u05d1\u05d8\u05d7",
+  "generated_at": "2026-04-23T13:54:02.640901+00:00",
+  "quality_profile": "production",
+  "documentation_policy": {
+    "no_emoji": true,
+    "plain_markdown": true
+  },
+  "stack": [
+    "go"
+  ],
+  "file_count": 85,
+  "artifacts": {
+    "readme": "README.md",
+    "architecture_doc": "docs/ARCHITECTURE.md",
+    "operations_doc": "docs/OPERATIONS.md"
+  }
+}
